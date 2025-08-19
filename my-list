@@ -1,0 +1,24 @@
+my list.txt
++25
+Lines changed: 25 additions & 0 deletions
+Original file line number	Diff line number	Diff line change
+@@ -0,0 +1,25 @@
+my_list = []
+my_list.append(10)
+my_list.append(20)
+my_list.append(30)
+my_list.append(40)
+my_list insert [10,20,30,40]
+my-list insert (1,15)
+ 
+ [10,15,20,30,40]
+my-list extended [50,60,70]
+ [10,15,20,30,40,50,60,70]
+ my_list .pop()
+ remove the last element
+ [10,15,20,30,40,50,60]
+ my _list.sort()
+ [10,15,20,30,40,50.60]
+index of 30=my_list,ind(30)
+ print("index of 30:",index_of_30)
+ 
